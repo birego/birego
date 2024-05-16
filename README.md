@@ -1,4 +1,6 @@
-# Bienvenue sur mon profil GitHub !
+<h1 align="center">
+  <img src="name.svg" alt="Marton Lederer" />
+</h1>
 
 ## À propos de moi
 Salut, je suis CHRISTIAN BIREGO, un passionné du développement web avec un vif intérêt pour à la fois le frontend et le backend. Je suis constamment en quête de nouvelles opportunités pour créer des expériences en ligne exceptionnelles en combinant la puissance de la conception et de la fonctionnalité.
